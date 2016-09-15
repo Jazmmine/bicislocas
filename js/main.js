@@ -40,11 +40,5 @@ function validateForm(){
 	/*El valor seleccionado de bicis, debe ser una de las opciones presentadas*/
 	if(document.querySelector("select").value == 0)
         alert("Ingresa una bicicleta");
-    
-	   
-   
- 
-    
-
 
 }
